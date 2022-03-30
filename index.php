@@ -6,7 +6,7 @@
  **/
 error_reporting(0);
 ob_start();
-define('API_KEY','token'); 
+define('API_KEY','5102454298:AAHhOg-KAhCbpWWF_K9lbjE-V_jE6bqoOY8'); 
 //==============================\\
 if(true){
 error_reporting(E_ALL & ~(E_NOTICE | E_USER_NOTICE | E_DEPRECATED));
